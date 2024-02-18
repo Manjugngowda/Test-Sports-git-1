@@ -1,0 +1,8 @@
+Equipments are used in Hockey:
+
+1.Hockey Stick
+2.Ball
+3.Shin guard
+4.Mouth guards
+5.Helmet and throat protector
+6.Cleats (Shoes)

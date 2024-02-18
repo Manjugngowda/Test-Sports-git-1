@@ -1,0 +1,10 @@
+Equipments are used in Cricket:
+
+1.Ball
+2.Bat
+3.Keeper Glove
+4.Batsman Glove
+5.Keeper/Batsman Pads
+6.Helmet
+7.Stumps
+8.Bails
